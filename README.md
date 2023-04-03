@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://images-ext-1.discordapp.net/external/0jyYfhPk1-hvZsark6emdS8cQTzDmlSQczljTwIWXX4/%3Fsize%3D1024/https/cdn.discordapp.com/icons/1076108968285446175/f56b1be8917cb626cf93bc8e0dc312bc.webp?width=124&height=124">
+<img src="https://media.discordapp.net/attachments/1059165727325687849/1092499823971807302/imma_forever_boy.jpg?width=124&height=124">
 </p>
 <p align="center">
     Hisxokaq
