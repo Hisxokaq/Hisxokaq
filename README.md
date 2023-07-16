@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=Hisxokaq">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/953327898092249098.png"/>
+  <img src="https://discord.c99.nl/widget/theme-4/898501942349795379.png"/>
 </p>
 <p align="center">
 Working on Enton bots
